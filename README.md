@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Simple FAQ Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), so will have some default files from there still in some places.
 
-## Available Scripts
+Here's how the page looks. It's set up with default question/answers in the `App.js` file.
+![image](https://user-images.githubusercontent.com/69932288/177222367-5cacdfac-1200-4494-921e-7844c289f0f0.png)
+
+## Default Available Scripts from Create React App
 
 In the project directory, you can run:
 
